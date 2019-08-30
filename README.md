@@ -1,2 +1,0 @@
-# Crossword
-Created with CodeSandbox

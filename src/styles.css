@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Sq_box{
+  text-align: center;
+
+}
+
+.Bl_box{
+background-color: #000;
+}
+.box{
+  border: 1px solid;
+  width: 30px;
+  height: 30px;
+  font-size: 24px;
+}
+
+.box:disabled {
+  border-color: black;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
